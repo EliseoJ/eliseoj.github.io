@@ -2,7 +2,7 @@
 title: "Special Issue on Territories and Identities"
 collection: publications
 permalink: /publication/2017-Intro
-date: 2019-06-07
+date: 2017-06-07
 venue: 'IPOTESI – REVISTA DE ESTUDOS LITERÁRIOS'
 paperurl: '/files/pdf/research/Introduction.pdf'
 link: 'https://periodicos.ufjf.br/index.php/ipotesi/issue/view/838'
