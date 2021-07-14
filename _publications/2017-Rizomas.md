@@ -2,7 +2,7 @@
 title: "Peripheral Rhizomes: Reterritorialization of Urban Space in Sacoinha's Estação Terminal"
 collection: publications
 permalink: /publication/2017-Rizomas
-date: 2019-06-07
+date: 2017-06-07
 venue: 'IPOTESI – REVISTA DE ESTUDOS LITERÁRIOS'
 paperurl: '/files/pdf/research/Rizomas.pdf'
 link: 'https://doi.org/10.34019/1982-0836.2017.v21.19436'
