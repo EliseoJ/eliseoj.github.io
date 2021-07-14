@@ -13,7 +13,7 @@ Welcome! I am currently a faculty member of the
 at [Howard University](https://howard.edu/). I specialize
 in Latin American urban literature and culture. I earned my Ph.D in
 Spanish and Portuguese from the
-[University *of* Texas *at* Austin](https://www.utexas.edu/).
+[University of Texas at Austin](https://liberalarts.utexas.edu/spanish/).
 
 My work has been [published](publications) in
 *International Studies Quarterly*, *Conflict Management and Peace Science*, and
