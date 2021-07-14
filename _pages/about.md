@@ -15,12 +15,9 @@ in Latin American urban literature and culture. I earned my Ph.D in
 Spanish and Portuguese from the
 [University of Texas at Austin](https://liberalarts.utexas.edu/spanish/).
 
-My work has been [published](publications) in
+My recent [publications](publications) contextualize literary and cultural representations of the urban periphery as part of a larger analysis regarding the relationship between race, masculinity, and citizenship in contemporary Latin American urban spaces. My publications can be found in _Ipotesi: Revista de Estudos Literários_ and _Intinerários: Revista de Literatura_, among other outlets. 
 *International Studies Quarterly*, *Conflict Management and Peace Science*, and
 *Political Science Research and Methods*, among other outlets.
-My [research](research) explores the causes and consequences of political
-violence using a broad variety of methods such as latent variable models,
-geospatial analysis, and big data. While I primarily focus on civil conflict, I
-also examine contentious political phenomena including terrorism and economic
-statecraft. I have [teaching](teaching) experience in both international
-relations and quantitative methodology.
+My [research](research) expores X,Y, and Z in order to understand A,B, and C. I have [teaching](teaching) experience in X and Y areas.
+
+Dr. Eliseo Jacob's recent publications contextualize literary and cultural representations of São Paulo’s urban periphery as part of a larger analysis regarding the relationship of the public sphere to marginalized communities of color in Brazil’s urban spaces.  His current book project, Masculinidades Marginales: Race, Masculinity, and the City in Latin American Literature, is an examination of literature produced by writers from underrepresented communities in major Latin American cities at the turn of the 21st century in order to understand how representations of male youth raise larger questions surrounding citizenship.  He asserts that writers from contemporary marginalized urban communities in the Americas are employing creative strategies that are inherently political due to their ability to contest hegemonic discourses on how Black and brown bodies can affirm their identities in the space of the city.
