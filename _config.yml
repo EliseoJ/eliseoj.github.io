@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Eliseo Jacob"
 title_separator          : "-"
-name                     : &name "Rob Williams"
-description              : &description "Postdoc in Political Science"
+name                     : &name "Eliseo jacob"
+description              : &description "Scholar of Urban Latin American Literary and Cultural Studies"
 url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jayrobwilliams/jayrobwilliams.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "contrast" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : jayrobw
+  username               : eliseoj_jacob
 facebook:
   username               :
   app_id                 :
@@ -82,16 +82,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Eliseo Jacob"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
-  location         : "St. Louis, MO"
+  bio              : "Scholar of Urban Latin American Literary and Cultural Studies"
+  location         : "Washington, DC"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : "https://orcid.org/0000-0003-0412-5460"
+  googlescholar    : 
+  email            : "eliseo.jacob@howard.edu"
+  researchgate     : "https://www.researchgate.net/profile/Eliseo-Jacob-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,8 +99,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : 
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jayrobw"
+  twitter          : "eliseoj_jacob"
   vine             :
   weibo            :
   xing             :
