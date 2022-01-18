@@ -1,5 +1,5 @@
 ---
-title: "Public Sphere, Citizenship, Urban Space"
+title: "public sphere"
 layout: single-portfolio
 excerpt: "<img src='/images/research/epr.png' alt=''>"
 collection: research
