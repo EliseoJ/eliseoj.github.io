@@ -3,22 +3,26 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their analytical skills and master the tools of data analysis through hands-on experience. I have taught undergraduate courses on political violence and statistical methodology. While at UNC, I taught the graduate statistics lab for Advanced Topics in Political Data Science, where my work was recognized by the Political Science Department's Earle Wallace Award for Graduate Student Teaching. I also served as a teaching assistant for courses in international relations and American politics at UNC, in addition to the ICPSR Summer Program where I was a teaching assistant for a course on Bayesian modeling in the social sciences. You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
+My research plays an important role in my pedagogy. While at UT-Austin, I taught the XYZ. Since 2014, I have taught courses on XYZ at Howard University. I was also invited to teach in the Global July Program at the Federal University of Juiz de Fora in Brazil during the summer of 2018. 
 
-You can find a selection of my teaching materials, including all of the labs from Advanced Topics in Political Data Science, [here](/teaching-materials).
+You can find a selection of my student digital projects, including all of the XYZ, [here](/teaching-materials).
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+## Howard University    
+- Afro-Brazilian Film (Spring 2017, Spring 2018, Spring 2019, Spring 2020, Spring 2021)
+    - [Syllabus]
+- Brazilian Hip Hop (Fall 2017, Fall 2018, Fall 2019, Fall 2020)
+    - [Syllabus]
+- Urban Literature in Latin America (Summer 2017, Summer 2018, Summer 2019, Summer 2020)
+    - [Syllabus]
+- Afro-Brazilian Writers (Summer 2016, Summer 2017, Summer 2018, Summer 2019, Summer 2020)
+    - [Syllabus]
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+## The University of Texas at Austin
+- POR 375: The Gritty City: Contemporary Urban Literature in Brazil (Fall 2013)
+    - [Syllabus]
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
+## Global July Program - Federal University of Juiz de Fora 
+- Brazilian Hip Hop (Summer 2018)
     - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+- City of God: Urban Literature in Brazil (Summer 2019
+
