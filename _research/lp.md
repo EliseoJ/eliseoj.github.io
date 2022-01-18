@@ -1,5 +1,5 @@
 ---
-title: "Measurement"
+title: "Literatura Periférica"
 layout: single-portfolio
 excerpt: "<img src='/images/research/Agreement-Strength.png' alt=''>"
 collection: research
