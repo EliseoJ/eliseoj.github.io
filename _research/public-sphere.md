@@ -1,5 +1,5 @@
 ---
-title: "Conflict preemption"
+title: "Public Sphere, Citizenship, Urban Space"
 layout: single-portfolio
 excerpt: "<img src='/images/research/epr.png' alt=''>"
 collection: research
