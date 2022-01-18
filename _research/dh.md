@@ -1,5 +1,5 @@
 ---
-title: "Computer vision"
+title: "Digital Humanities"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ternary.png' alt=''>"
 collection: research
