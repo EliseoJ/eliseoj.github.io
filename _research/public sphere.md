@@ -1,5 +1,5 @@
 ---
-title: "public sphere"
+title: "Public Sphere"
 layout: single-portfolio
 excerpt: "<img src='/images/research/epr.png' alt=''>"
 collection: research
