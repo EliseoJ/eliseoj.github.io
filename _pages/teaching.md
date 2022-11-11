@@ -23,6 +23,7 @@ You can find a selection of my student digital projects, including all of the XY
 
 ## Global July Program - Federal University of Juiz de Fora 
 - Brazilian Hip Hop (Summer 2018)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+    - [Syllabus](/files/pdf/teaching/Ementa_Curso de hip hop brasileiro.pdf)
 - City of God: Urban Literature in Brazil (Summer 2019
+    - [Syllabus](/files/pdf/teaching/Ementa_Curso Cidade de Deus.pdf)
 
