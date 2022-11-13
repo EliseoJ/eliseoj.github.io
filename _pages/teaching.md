@@ -5,7 +5,8 @@ title: "Teaching"
 
 My research plays an important role in my pedagogy. While at UT-Austin, I taught a course based on my research on contemporary Brazilian urban literary productions. Since 2014, I have taught courses on Afro-Brazilian culture and literature at Howard University. I was also invited to teach in the Global July Program at the Federal University of Juiz de Fora in Brazil during the summer of 2018. 
 
-You can find a selection of my student digital projects at the following omeka exhibit: [HU Você Sabe!](https://huportuguese.omeka.net/)
+You can find a selection of my student digital projects at the following omeka exhibit: 
+[HU Você Sabe!](https://huportuguese.omeka.net/)
 
 ## Howard University    
 - Afro-Brazilian Film (Spring 2017, Spring 2018, Spring 2019, Spring 2020, Spring 2021)
