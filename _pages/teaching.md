@@ -12,7 +12,7 @@ You can find a selection of my student digital projects, including all of the XY
     - [Syllabus]
 - Brazilian Hip Hop (Fall 2017, Fall 2018, Fall 2019, Fall 2020)
     - [Syllabus]
-- Urban Literature in Latin America (Summer 2017, Summer 2018, Summer 2019, Summer 2020)
+- Urban Literature in Brazil (Summer 2017, Summer 2018, Summer 2019, Summer 2020)
     - [Syllabus]
 - Afro-Brazilian Writers (Summer 2016, Summer 2017, Summer 2018, Summer 2019, Summer 2020)
     - [Syllabus]
