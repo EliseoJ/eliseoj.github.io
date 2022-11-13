@@ -1,7 +1,7 @@
 ---
 title: "Senzalas e Quilombos Modernos Evoking the Legacy of Slavery in Brazilian Hip Hop"
 collection: publications
-permalink: /publication/2022-SenzalasQuilombos
+permalink: /publication/2022-Senzalas
 date: 2022-06-30
 venue: 'Trajectories of Empire: Transhispanic Reflections on the African Diaspora'
 paperurl: '/files/pdf/research/Senzalas e Quilombos.pdf'
