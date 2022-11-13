@@ -7,8 +7,6 @@ My research plays an important role in my pedagogy. While at UT-Austin, I taught
 
 You can find a selection of my student digital projects at the following omeka exhibit: [HU Você Sabe!](https://huportuguese.omeka.net/)
 
-including all of the XYZ, [here](/teaching-materials).
-
 ## Howard University    
 - Afro-Brazilian Film (Spring 2017, Spring 2018, Spring 2019, Spring 2020, Spring 2021)
     - [Syllabus]
