@@ -15,7 +15,7 @@ You can find a selection of my student digital projects at the following omeka e
     - [Syllabus]
 - Urban Literature in Brazil (Summer 2017, Summer 2018, Summer 2019, Summer 2020)
     - [Syllabus]
-- Afro-Brazilian Writers (Summer 2016, Summer 2017, Summer 2018, Summer 2019, Summer 2020)
+- Afro-Brazilian Writers (Summer 2017, Summer 2018, Summer 2019, Summer 2020)
     - [Syllabus]
 
 ## The University of Texas at Austin
