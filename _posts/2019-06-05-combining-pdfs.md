@@ -1,0 +1,44 @@
+---
+title: Combining PDFs
+date: 2019-06-25
+permalink: /posts/2019/06-combining-pdfs
+excerpt_separator: <!--more-->
+toc: true
+tags:
+  - test
+---
+
+This is a test blog post.  I am writing about my research in Brazil, in particular the literary and cultural productions in São Paulo's urban periphery: [article](https://marlasjournal.com/articles/10.23870/marlas.377) 
+
+<!--more-->
+
+It's important to learn how to use footnotes in a document.[^footnote1] Footnotes are an important feature of academic writing to providing additional information on a topic not central to the article, chapter, or book's focus. 
+
+[^footnote1]: This is a footnote for this post to show how it works in a markdown document/
+
+I can also add in quotes into a document:
+
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dui risus, pellentesque congue felis ornare quis. Mauris a aliquam massa, nec viverra eros. Ut ac arcu vitae arcu dictum tincidunt ac nec massa. Cras vitae massa tellus. Morbi sit amet libero nec ligula finibus porttitor. Ut tortor nibh, hendrerit et leo vel, lacinia iaculis libero. Nullam elementum venenatis orci ac volutpat. Donec pretium malesuada velit lobortis ultrices. Sed quis felis egestas magna lacinia laoreet venenatis vel orci. Vestibulum turpis sem, feugiat eu justo interdum, tincidunt vulputate justo. Vivamus euismod mauris mauris, non pharetra dui pretium id. Vivamus sit amet mi vehicula, pulvinar turpis vitae, imperdiet tortor. Curabitur finibus nulla tellus, ac mattis lectus pharetra congue.
+
+# Section 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dui risus, pellentesque congue felis ornare quis. Mauris a aliquam massa, nec viverra eros. Ut ac arcu vitae arcu dictum tincidunt ac nec massa. Cras vitae massa tellus. Morbi sit amet libero nec ligula finibus porttitor. Ut tortor nibh, hendrerit et leo vel, lacinia iaculis libero. Nullam elementum venenatis orci ac volutpat. Donec pretium malesuada velit lobortis ultrices. Sed quis felis egestas magna lacinia laoreet venenatis vel orci. Vestibulum turpis sem, feugiat eu justo interdum, tincidunt vulputate justo. Vivamus euismod mauris mauris, non pharetra dui pretium id. Vivamus sit amet mi vehicula, pulvinar turpis vitae, imperdiet tortor. Curabitur finibus nulla tellus, ac mattis lectus pharetra congue.
+
+Ut id dui vitae magna posuere fringilla vitae quis magna. Praesent quis porta nunc. Morbi sagittis at erat vel auctor. Ut justo mauris, interdum id magna vitae, hendrerit vehicula neque. Curabitur fringilla id ante eget lobortis. Etiam eu pharetra sem, sit amet euismod eros. Donec pharetra blandit turpis. Aliquam semper nulla sed mauris porttitor imperdiet. Quisque rhoncus nibh vel arcu molestie, at porttitor enim tempor. Duis est tellus, sagittis vitae augue ut, consectetur dapibus quam. Praesent scelerisque, lacus sit amet pellentesque convallis, ex metus scelerisque velit, eget mattis nulla erat at massa. Proin mattis pharetra turpis ac sodales. Praesent urna neque, pharetra et lacus ac, vulputate efficitur nisi. Integer sit amet augue eu mi volutpat fringilla sit amet egestas nibh. Praesent efficitur facilisis fermentum.
+
+# Section 2
+
+Ut id dui vitae magna posuere fringilla vitae quis magna. Praesent quis porta nunc. Morbi sagittis at erat vel auctor. Ut justo mauris, interdum id magna vitae, hendrerit vehicula neque. Curabitur fringilla id ante eget lobortis. Etiam eu pharetra sem, sit amet euismod eros. Donec pharetra blandit turpis. Aliquam semper nulla sed mauris porttitor imperdiet. Quisque rhoncus nibh vel arcu molestie, at porttitor enim tempor. Duis est tellus, sagittis vitae augue ut, consectetur dapibus quam. Praesent scelerisque, lacus sit amet pellentesque convallis, ex metus scelerisque velit, eget mattis nulla erat at massa. Proin mattis pharetra turpis ac sodales. Praesent urna neque, pharetra et lacus ac, vulputate efficitur nisi. Integer sit amet augue eu mi volutpat fringilla sit amet egestas nibh. Praesent efficitur facilisis fermentum.[^footnote2]
+
+[^footnote2]: Here is another footnote.
+
+rem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dui risus, pellentesque congue felis ornare quis. Mauris a aliquam massa, nec viverra eros. Ut ac arcu vitae arcu dictum tincidunt ac nec massa. Cras vitae massa tellus. Morbi sit amet libero nec ligula finibus porttitor. Ut tortor nibh, hendrerit et leo vel, lacinia iaculis libero. Nullam elementum venenatis orci ac volutpat. Donec pretium malesuada velit lobortis ultrices. Sed quis felis egestas magna lacinia laoreet venenatis vel orci. Vestibulum turpis sem, feugiat eu justo interdum, tincidunt vulputate justo. Vivamus euismod mauris mauris, non pharetra dui pretium id. Vivamus sit amet mi vehicula, pulvinar turpis vitae, imperdiet tortor. Curabitur finibus nulla tellus, ac mattis lectus pharetra congue.
+
+# Section 3
+
+Research on literary and cultural productions in the urban periphery of Brazil is very important, with organizations like FLUP in Rio de Janeiro:
+
+![](/images/posts/Flupp2015.jpg){: .align-center }
+
+Ut id dui vitae magna posuere fringilla vitae quis magna. Praesent quis porta nunc. Morbi sagittis at erat vel auctor. Ut justo mauris, interdum id magna vitae, hendrerit vehicula neque. Curabitur fringilla id ante eget lobortis. Etiam eu pharetra sem, sit amet euismod eros. Donec pharetra blandit turpis. Aliquam semper nulla sed mauris porttitor imperdiet. Quisque rhoncus nibh vel arcu molestie, at porttitor enim tempor. Duis est tellus, sagittis vitae augue ut, consectetur dapibus quam. Praesent scelerisque, lacus sit amet pellentesque convallis, ex metus scelerisque velit, eget mattis nulla erat at massa. Proin mattis pharetra turpis ac sodales. Praesent urna neque, pharetra et lacus ac, vulputate efficitur nisi. Integer sit amet augue eu mi volutpat fringilla sit amet egestas nibh. Praesent efficitur facilisis fermentum.
+
