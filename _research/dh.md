@@ -19,4 +19,4 @@ Eliseo Jacob. Vivamus hendrerit nibh vel ante feugiat, ut suscipit ipsum ultrice
 
 > Vivamus hendrerit nibh vel ante feugiat, ut suscipit ipsum ultrices. Curabitur placerat sapien eget nisl congue, a eleifend turpis porta. Curabitur iaculis ac nulla sed bibendum. Donec consequat sem ante, eleifend commodo nisl maximus non. Fusce nec nibh dui. Morbi pulvinar, quam in viverra cursus, nibh tortor dignissim nisi, et laoreet neque ipsum finibus sem. Proin eget aliquet sapien. Nullam mattis quam at elit vehicula, non luctus risus bibendum. Ut commodo elit vel orci vestibulum, non tincidunt augue pretium. In et dui eget neque ullamcorper tristique quis id tortor. Curabitur vulputate, mi et convallis rhoncus, arcu massa imperdiet felis, sed faucibus nibh metus quis lacus. Duis ultricies condimentum tristique. Nullam varius ex ut vestibulum congue.
 
-[Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research}
+[Article](https://www.researchgate.net/publication/357889346_The_History_of_Black_Writing_Novel_Corpus_Digitization_Infrastructure_and_Collocation_as_Social_Practice){: .btn--research}
