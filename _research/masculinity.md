@@ -1,5 +1,5 @@
 ---
-title: "Masculinity, Urban Spaces, and Citizenship"
+title: "Masculinity, Urban Space, & Citizenship"
 layout: single-portfolio
 excerpt: "<img src='/images/research/epr.png' alt=''>"
 collection: research
@@ -20,7 +20,7 @@ Eliseo Jacob. "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posue
 > Pellentesque diam purus, varius ullamcorper arcu vel, feugiat aliquet turpis. Mauris tristique pulvinar erat ut consequat. Nam at lobortis nulla, in gravida eros. Donec at urna a dolor volutpat molestie sit amet quis odio. Praesent porta tortor a felis hendrerit, id porttitor odio luctus. Nullam eu dolor in massa pretium scelerisque ac dictum lacus. Nam congue vitae odio nec dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
 
 
-[Article](https://doi.org/10.1177/07388942211015242){: .btn--research} [Preprint](/files/pdf/research/Turning the Lights on.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Turning the Lights on SI.pdf){: .btn--research} [Replication Archive](https://journals.sagepub.com/doi/suppl/10.1177/07388942211015242){: .btn--research} [GitHub Repo](https://github.com/jayrobwilliams/conflict-preemption){: .btn--research}
+[Article](https://doi.org/10.34019/1982-0836.2017.v21.19436){: .btn--research} [Special Issue](https://periodicos.ufjf.br/index.php/ipotesi/issue/view/838){: .btn--research} 
 
 ## Manuscript in preparation
 
