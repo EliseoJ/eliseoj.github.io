@@ -3,7 +3,7 @@ permalink: /projects/
 title: "Projects"
 gallery:
 header:
-  og_image: "software/spatial_weighting.png"
+  
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent laoreet est et metus fermentum elementum. Ut rutrum efficitur eros non congue. Donec magna enim, rhoncus et nisi quis, eleifend venenatis nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis lacinia auctor. Ut lobortis vestibulum velit non lacinia. Quisque interdum risus quam, vel ullamcorper nisl molestie non. Donec a imperdiet ante. Phasellus id dolor orci. Maecenas vestibulum pellentesque bibendum. Duis mi quam, feugiat eu lectus vitae, condimentum semper erat.
 
