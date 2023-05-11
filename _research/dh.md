@@ -1,11 +1,11 @@
 ---
 title: "Digital Humanities"
 layout: single-portfolio
-excerpt: "<img src='/images/research/bbip.PNG' alt=''>"
+excerpt: "<img src='/images/research/hd.JPG' alt=''>"
 collection: research
 order_number: 40
 header: 
-  og_image: "research/bbip.PNG"
+  og_image: "research/hd.JPG"
 ---
 
 In this project I do X, Y. and Z. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere mollis odio, nec consequat orci dapibus in. Ut accumsan leo nibh. In eget diam ex. Pellentesque pharetra auctor rutrum. Quisque aliquam est quis erat fermentum porttitor et eget erat. Vestibulum aliquet rutrum cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus.
