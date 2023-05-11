@@ -1,11 +1,11 @@
 ---
-title: "Hip Hop & Urban Popular Culture"
+title: "Hip Hop in Latin America"
 layout: single-portfolio
-excerpt: "<img src='/images/research/racionais.jpg' alt=''>"
+excerpt: "<img src='/images/research/pow.jpg' alt=''>"
 collection: research
 order_number: 30
 header: 
-  og_image: "research/racionais.jpg"
+  og_image: "research/pow.jpg"
 ---
 
 In the following projects, I ...
