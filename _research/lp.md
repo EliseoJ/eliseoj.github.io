@@ -1,5 +1,5 @@
 ---
-title: "Literatura Periférica"
+title: "Literatures & Cultures of the Urban Periphery"
 layout: single-portfolio
 excerpt: "<img src='/images/research/Agreement-Strength.png' alt=''>"
 collection: research
