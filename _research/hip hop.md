@@ -1,5 +1,5 @@
 ---
-title: "Hip Hop"
+title: "Hip Hop & Urban Popular Culture"
 layout: single-portfolio
 excerpt: "<img src='/images/research/racionais.jpg' alt=''>"
 collection: research
