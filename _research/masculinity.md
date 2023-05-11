@@ -1,11 +1,11 @@
 ---
 title: "Masculinity, Urban Space, & Citizenship"
 layout: single-portfolio
-excerpt: "<img src='/images/research/epr.png' alt=''>"
+excerpt: "<img src='/images/research/mural.jpg' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "research/epr.png"
+  og_image: "research/mural.jpg"
 ---
 Duis sed aliquet sem, quis porttitor tellus. Duis eget faucibus metus. Nullam sit amet convallis dui. Fusce vehicula tellus ipsum, quis dictum ex pellentesque in. Vestibulum faucibus enim ex, nec blandit nulla elementum ac. Pellentesque sed vehicula ipsum. Nam maximus, risus eget molestie interdum, sem justo fermentum elit, vel vulputate eros mi non risus.
 
